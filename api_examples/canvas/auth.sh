@@ -23,4 +23,4 @@ curl --request POST "$CANVAS_API_BASE_URL/auth/token/" \
 --header 'Content-Type: application/x-www-form-urlencoded' \
 --data-urlencode 'grant_type=client_credentials' \
 --data-urlencode "client_id=$CANVAS_CLIENT_ID" \
---data-urlencode "client_secret=$CANVAS_CLIENT_SECRET" | jq
+--data-urlencode "client_secret=$CANVAS_CLIENT_SECRET"

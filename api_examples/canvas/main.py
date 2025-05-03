@@ -4,9 +4,9 @@ import os
 ########################################################
 # Update with your own values
 
-first_name = "FirstName"
-last_name = "LastName"
-age = 28
+first_name = "Frodo"
+last_name = "Baggins"
+age = 23
 sex = "M"
 gender = "male"
 
@@ -16,4 +16,3 @@ payload = create_patient0(first_name, last_name, age, sex, gender)
 print(payload)
 
 ########################################################
-

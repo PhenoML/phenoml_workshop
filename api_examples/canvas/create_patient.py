@@ -4,7 +4,8 @@ import os
 
 ########################################################
 # Update with your own bearer token generated from auth.sh
-bearer_token = "your_bearer_token_here"
+# bearer_token = "your_bearer_token_here"
+bearer_token = os.getenv('CANVAS_BEARER_TOKEN')
 
 base_url = "https://fumage-xpc-dev.canvasmedical.com"
 patient_url = base_url.rstrip('/') + '/Patient'
@@ -50,5 +51,3 @@ def create_patient0(firstname, lastname, age, sex, gender):
     # Optionally, inspect the response
     print("Status Code:", response.status_code)
     print("Response Body:", response.text)
-
-
