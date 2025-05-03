@@ -1,5 +1,5 @@
 # APIS vs. SDKs Workshop (by XPC and PhenoML)
-This repo contains examples demonstrated during a workshop held on 05-02-2025. Check out the recording [here](https://youtube.com)
+This repo contains examples demonstrated during a workshop held on 05-02-2025. Check out the recording [here](https://www.youtube.com/watch?v=YGOZlYnGxvM)
 
 ## APIs
 
