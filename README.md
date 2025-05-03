@@ -81,4 +81,4 @@ Kerry will demo showing an updated patient chart layout by modifying the values 
 
 ### Medplum Lang2FHIR App
 
-Join [medplum_provider_lang2fhir_app replit app](https://replit.com/join/omqtcoflaa-kerry15)
+Check out github repo for [medplum provider lang2fhir app](https://github.com/PhenoML/medplum-provider-lang2fhir)
