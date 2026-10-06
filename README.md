@@ -13,7 +13,7 @@ Get started with [Medplum](https://www.medplum.com/docs)!
 Check out Cerner's sandbox and documentation for Cerner FHIR APIs [here](https://docs.oracle.com/en/industries/health/millennium-platform-apis/mfrap/r4_overview.html)
 
 ### PhenoML 
-Use the [PhenoML quickstart](https://console.pheno.ml/docs/guides/quickstart) to create an account, get API access, and make FHIR API calls using language!
+For API access and FHIR calls using language, see the [PhenoML docs](https://console.pheno.ml/docs).
 
 ## APIs
 
